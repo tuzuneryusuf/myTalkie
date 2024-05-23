@@ -8,5 +8,5 @@ yusuf@gmail.com
 atilhoca@gmail.com
 ahmet@gmail.com
 Password:
-
+123456
 (same for all accounts)
